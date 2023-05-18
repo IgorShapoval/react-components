@@ -24,7 +24,7 @@ export const NewsList = styled.ul`
 `;
 
 export const ListItem = styled.li`
-  width: 1005;
+  width: 100%;
   height: 110px;
   background: #bdcdf7;
 `;

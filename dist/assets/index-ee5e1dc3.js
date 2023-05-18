@@ -154,7 +154,7 @@ Error generating stack: `+i.message+`
   flex-direction: column;
   gap: 10px;
 `,Fi=K.li`
-  width: 1005;
+  width: 100%;
   height: 110px;
   background: #bdcdf7;
 `,Kv=()=>L.jsx(Tn,{children:L.jsxs(Vv,{children:[L.jsx(Hv,{children:"News"}),L.jsxs(Qv,{children:[L.jsx(Fi,{}),L.jsx(Fi,{}),L.jsx(Fi,{})]})]})});K.div`
